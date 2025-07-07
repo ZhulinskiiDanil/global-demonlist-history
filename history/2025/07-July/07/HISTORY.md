@@ -1,6 +1,6 @@
 # Demonlist History
 
-_Last updated: 2025-07-07T13:15:03.154Z (July 7, 2025 at 03:15 PM)_
+_Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 
 ## #1: Amethyst
 
@@ -9,7 +9,7 @@ _Last updated: 2025-07-07T13:15:03.154Z (July 7, 2025 at 03:15 PM)_
 - **Verifier**: wPopoff
 - **Holder**: iMist
 - **Minimal Percent**: 44%
-- **Score**: 1200
+- **Score**: 1000
 
 ## #2: Thinking Space II
 

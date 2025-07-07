@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2025-07-07T13:15:03.154Z",
+  "updatedAt": "2025-07-07T16:00:46.165Z",
   "list": [
     {
       "id": 2976,
       "level_id": 119550490,
       "verifier_id": 13502,
       "place": 1,
-      "score": 1200,
+      "score": 1000,
       "minimal_percent": 44,
       "length": 102,
       "objects": 147177,

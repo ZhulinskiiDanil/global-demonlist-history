@@ -1,6 +1,21 @@
 import fs from 'fs/promises';
 import path from 'path';
 
+const months = [
+  'January',
+  'February',
+  'March',
+  'April',
+  'May',
+  'June',
+  'July',
+  'August',
+  'September',
+  'October',
+  'November',
+  'December',
+];
+
 function formatHumanDate(isoString) {
   const date = new Date(isoString);
   const options = {
@@ -13,11 +28,29 @@ function formatHumanDate(isoString) {
   return date.toLocaleString('en-US', options); // или 'ru-RU' для русского
 }
 
+async function getDemonlist() {
+  let list = [];
+
+  try {
+    const response = await fetch(
+      'https://api.demonlist.org/levels/classic?search=&levels_type=all&user_id=20800&limit=0'
+    );
+    const json = await response.json();
+    if (json.success && Array.isArray(json.data)) {
+      list = json.data; // возвращаем массив data
+    }
+  } catch {
+    throw new Error('Ошибка при получении данных с API Demonlist');
+  }
+
+  return {
+    list,
+  };
+}
+
 async function formatHistory() {
   try {
-    const jsonPath = path.resolve('./HISTORY.json');
-    const prevJsonPath = path.resolve('./DATA/HISTORY.prev.json');
-    const mdPath = path.resolve('./DATA/HISTORY.md');
+    const prevJsonPath = path.resolve('./history/HISTORY.prev.json');
 
     let prevUpdatedAt = null;
 
@@ -30,17 +63,32 @@ async function formatHistory() {
       console.log('⚠️ Старого HISTORY.prev.json не найдено.');
     }
 
-    // 2️⃣ Читаем текущий HISTORY.json (без updatedAt)
-    const jsonData = await fs.readFile(jsonPath, 'utf-8');
-    const history = JSON.parse(jsonData);
+    if (prevUpdatedAt) {
+      const prevDate = new Date(prevUpdatedAt);
+      const currDate = new Date();
+      // Проверяем, что номер дня месяца отличается (календарный день)
+      if (
+        currDate.getFullYear() === prevDate.getFullYear() &&
+        currDate.getMonth() === prevDate.getMonth() &&
+        currDate.getDate() === prevDate.getDate()
+      ) {
+        throw new Error(
+          'С момента последнего обновления не сменился календарный день.'
+        );
+      }
+    }
+
+    // 2️⃣ Загружаем актуальный массив уровней с Demonlist API
+    const history = await getDemonlist();
 
     // 3️⃣ Берём текущую дату в ISO формате (т.к. updatedAt нет в HISTORY.json)
     const currentISODate = new Date().toISOString();
+    const currDate = new Date(currentISODate);
 
     // 4️⃣ Создаём резервную копию текущего файла, добавляя updatedAt с текущей датой
     const historyWithDate = {
-      ...history,
       updatedAt: currentISODate,
+      ...history,
     };
     await fs.writeFile(
       prevJsonPath,
@@ -75,21 +123,37 @@ async function formatHistory() {
       markdown += `- **Score**: ${level.score}\n\n`;
     });
 
-    // 8️⃣ Сохраняем HISTORY.md
+    // 8️⃣ Определяем директорию для сохранения (как в generateDiff)
+    const year = currDate.getFullYear().toString();
+    const monthIndex = currDate.getMonth(); // 0-11
+    const monthNumber = String(monthIndex + 1).padStart(2, '0');
+    const monthName = months[monthIndex];
+    const day = String(currDate.getDate()).padStart(2, '0');
+
+    const targetDir = path.resolve(
+      `./history/${year}/${monthNumber}-${monthName}/${day}`
+    );
+    await fs.mkdir(targetDir, { recursive: true });
+
+    const mdPath = path.join(targetDir, 'HISTORY.md');
+
+    // 9️⃣ Сохраняем HISTORY.md
     await fs.writeFile(mdPath, markdown, 'utf-8');
 
     console.log('✅ HISTORY.md успешно создан!');
     console.log(`ℹ️  Обработано уровней: ${history.list.length}`);
     console.log(`📄 Файл сохранён по пути: ${mdPath}`);
   } catch (error) {
-    console.error('❌ Ошибка при генерации HISTORY.md:', error);
+    throw new Error(
+      `❌ CRITICAL ERROR: Ошибка при генерации HISTORY.md ${error}`,
+      error
+    );
   }
 }
 
 async function generateDiff() {
   try {
-    const currJsonPath = path.resolve('./HISTORY.json');
-    const prevJsonPath = path.resolve('./DATA/HISTORY.prev.json');
+    const prevJsonPath = path.resolve('./history/HISTORY.prev.json');
 
     let prevData = null;
     let prevDateISO = null;
@@ -106,8 +170,22 @@ async function generateDiff() {
       );
     }
 
-    const currDataRaw = await fs.readFile(currJsonPath, 'utf-8');
-    const currData = JSON.parse(currDataRaw);
+    if (prevData?.updatedAt) {
+      const prevDate = new Date(prevData.updatedAt);
+      const currDate = new Date();
+      // Проверяем, что номер дня месяца отличается (календарный день)
+      if (
+        currDate.getFullYear() === prevDate.getFullYear() &&
+        currDate.getMonth() === prevDate.getMonth() &&
+        currDate.getDate() === prevDate.getDate()
+      ) {
+        throw new Error(
+          'С момента последнего обновления не сменился календарный день.'
+        );
+      }
+    }
+
+    const currData = await getDemonlist();
     const currDate = new Date(); // now
     const currDateISO = currDate.toISOString();
 
@@ -118,9 +196,9 @@ async function generateDiff() {
     const currHumanDate = formatHumanDate(currDate);
 
     let markdown = `# Demonlist Changes\n\n`;
-    markdown += `_Compared: ${
-      prevDateISO ?? 'N/A'
-    } → ${currDateISO} (${prevHumanDate} → ${currHumanDate})_\n\n`;
+    markdown += `_Compared:_<br />\n`;
+    markdown += `\`${prevDateISO ?? 'N/A'}\` → \`${currDateISO}\`<br />\n`;
+    markdown += `**${prevHumanDate}** → **${currHumanDate}**\n\n`;
 
     let hasChanges = false;
 
@@ -159,7 +237,7 @@ async function generateDiff() {
       hasChanges = true;
       markdown += `## 🆕 Added Levels\n\n`;
       added.forEach((level) => {
-        markdown += `- **#${level.place}: ${level.name}** (ID: ${level.id})\n`;
+        markdown += `- **#${level.place}: ${level.name}** (ID: ${level.level_id})\n`;
       });
       markdown += '\n';
     }
@@ -172,7 +250,7 @@ async function generateDiff() {
       hasChanges = true;
       markdown += `## ❌ Removed Levels\n\n`;
       removed.forEach((level) => {
-        markdown += `- **#${level.place}: ${level.name}** (ID: ${level.id})\n`;
+        markdown += `- **#${level.place}: ${level.name}** (ID: ${level.level_id})\n`;
       });
       markdown += '\n';
     }
@@ -181,21 +259,6 @@ async function generateDiff() {
     if (!hasChanges) {
       markdown += `\n_Нет изменений между этими датами._\n`;
     }
-
-    const months = [
-      'January',
-      'February',
-      'March',
-      'April',
-      'May',
-      'June',
-      'July',
-      'August',
-      'September',
-      'October',
-      'November',
-      'December',
-    ];
 
     // Формируем путь для сохранения по дате
     const year = currDate.getFullYear().toString();
@@ -206,7 +269,7 @@ async function generateDiff() {
 
     // Путь с информативным названием месяца
     const diffDir = path.resolve(
-      `./DATA/diffs/${year}/${monthNumber}-${monthName}/${day}`
+      `./history/${year}/${monthNumber}-${monthName}/${day}`
     );
 
     await fs.mkdir(diffDir, { recursive: true });
@@ -219,7 +282,10 @@ async function generateDiff() {
     console.log(`✅ HISTORY.diff.md успешно создан!`);
     console.log(`📄 Файл сохранён по пути: ${diffMdPath}`);
   } catch (error) {
-    console.error('❌ Ошибка при создании HISTORY.diff.md:', error);
+    throw new Error(
+      `❌ CRITICAL ERROR: Ошибка при создании HISTORY.diff.md ${error}`,
+      error
+    );
   }
 }
 

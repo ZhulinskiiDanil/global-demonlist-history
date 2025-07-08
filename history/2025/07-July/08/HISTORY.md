@@ -1,6 +1,6 @@
 # Demonlist History
 
-_Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
+_Last updated: 2025-07-08T04:19:32.170Z (July 8, 2025 at 06:19 AM)_
 
 ## #1: Amethyst
 
@@ -209,31 +209,31 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 - **Minimal Percent**: 56%
 - **Score**: 388
 
-## #24: Firework
-
-- **ID**: 2485
-- **Description**: Here you die
-- **Verifier**: Trick
-- **Holder**: TrickGMD
-- **Minimal Percent**: 55%
-- **Score**: 384
-
-## #25: KOSETSU
-
-- **ID**: 2688
-- **Description**: prepare for cold...
-- **Verifier**: Taiago
-- **Holder**: fwefwe
-- **Minimal Percent**: 56%
-- **Score**: 380
-
-## #26: The Lightning Rod
+## #24: The Lightning Rod
 
 - **ID**: 2066
 - **Description**: Solve the mystery of thunderstorms on a rainy day. 264 hours and 101 thousand attempts. My greatest project of all time. LOVE YOU ALL!!!!!
 - **Verifier**: Lavatrex
 - **Holder**: Lavatrex
 - **Minimal Percent**: 55%
+- **Score**: 384
+
+## #25: Firework
+
+- **ID**: 2485
+- **Description**: Here you die
+- **Verifier**: Trick
+- **Holder**: TrickGMD
+- **Minimal Percent**: 55%
+- **Score**: 380
+
+## #26: KOSETSU
+
+- **ID**: 2688
+- **Description**: prepare for cold...
+- **Verifier**: Taiago
+- **Holder**: fwefwe
+- **Minimal Percent**: 56%
 - **Score**: 376
 
 ## #27: Through The Gates
@@ -286,7 +286,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 - **ID**: 2090
 - **Description**: You've entered the territory of the Centipede. Will you come out alive? - Verified by LordVadercraft (92k Attempts).
 - **Verifier**: LordVadercraft
-- **Holder**: zander12
+- **Holder**: zander12 
 - **Minimal Percent**: 46%
 - **Score**: 352
 
@@ -338,7 +338,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #38: The Salt Factory
 
 - **ID**: 2830
-- **Description**: `There is no description`
+- **Description**: 
 - **Verifier**: Nickname
 - **Holder**: NiCkNaMe09
 - **Minimal Percent**: 51%
@@ -590,7 +590,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #66: BPATA MPAKA
 
 - **ID**: 2700
-- **Description**: `There is no description`
+- **Description**: 
 - **Verifier**: maybee
 - **Holder**: Inex
 - **Minimal Percent**: 56%
@@ -842,7 +842,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #94: Checked Steam
 
 - **ID**: 2689
-- **Description**: Whose steam will be checked in the Checked Steam? Who will emerge unchecked? _Verified by Whizkid05_ -- Rated 8/1/2024
+- **Description**: Whose steam will be checked in the Checked Steam? Who will emerge unchecked? *Verified by Whizkid05* -- Rated 8/1/2024
 - **Verifier**: Whizkid05
 - **Holder**: Gruzzy
 - **Minimal Percent**: 52%
@@ -1004,7 +1004,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #112: Starlit Stroll
 
 - **ID**: 2946
-- **Description**: #98 18,610 579 XL 500 A beautiful night to wander through a path of stars. Gameplay by me and Cork, decoration by me. Verified by NoctaXI in 18,145 attempts. Good luck :)
+- **Description**: #98   18,610  579  XL  500 A beautiful night to wander through a path of stars. Gameplay by me and Cork, decoration by me. Verified by NoctaXI in 18,145 attempts. Good luck :)
 - **Verifier**: NoctaXI
 - **Holder**: Enfur
 - **Minimal Percent**: 100%
@@ -1139,7 +1139,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #127: Ascent
 
 - **ID**: 2718
-- **Description**: 7 months of work have come to an end, thanks to LordVadercraft for verifying this, special thanks to everyone for their help with the art!
+- **Description**:   7 months of work have come to an end, thanks to LordVadercraft for verifying this, special thanks to everyone for their help with the art!
 - **Verifier**: LordVadercraft
 - **Holder**: Rimexon
 - **Minimal Percent**: 58%
@@ -1346,7 +1346,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #150: Xenolith
 
 - **ID**: 2827
-- **Description**: `There is no description`
+- **Description**: 
 - **Verifier**: IcaroX
 - **Holder**: Zisthik
 - **Minimal Percent**: 58%
@@ -1409,7 +1409,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #157: Disconnected Descent
 
 - **ID**: 3027
-- **Description**: `There is no description`
+- **Description**: 
 - **Verifier**: KirimeKuki
 - **Holder**: TheSkeletonGMD
 - **Minimal Percent**: 100%
@@ -1589,7 +1589,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #177: venetia
 
 - **ID**: 3060
-- **Description**: `There is no description`
+- **Description**: 
 - **Verifier**: Slithium
 - **Holder**: Cersia
 - **Minimal Percent**: 100%
@@ -1814,7 +1814,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #202: Time Extreme
 
 - **ID**: 3059
-- **Description**: `There is no description`
+- **Description**: 
 - **Verifier**: Vortrox
 - **Holder**: vortrox
 - **Minimal Percent**: 100%
@@ -1904,7 +1904,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #212: Gracefully
 
 - **ID**: 2473
-- **Description**: For ViPriN CC1, please rate demon 10\*. Verified by Vaen.
+- **Description**: For ViPriN CC1, please rate demon 10*. Verified by Vaen.
 - **Verifier**: theworldofme
 - **Holder**: NindyBK
 - **Minimal Percent**: 58%
@@ -1931,7 +1931,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #215: Keoro
 
 - **ID**: 2960
-- **Description**: `There is no description`
+- **Description**: 
 - **Verifier**: wadur
 - **Holder**: Wadur
 - **Minimal Percent**: 100%
@@ -2138,7 +2138,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #238: Ghoul
 
 - **ID**: 2808
-- **Description**: `There is no description`
+- **Description**: 
 - **Verifier**: Xavereth
 - **Holder**: XavT
 - **Minimal Percent**: 100%
@@ -2264,7 +2264,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #252: SET ME FREE
 
 - **ID**: 3058
-- **Description**: `There is no description`
+- **Description**: 
 - **Verifier**: Blitzer
 - **Holder**: efext
 - **Minimal Percent**: 100%
@@ -2453,7 +2453,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #273: PARTHENON
 
 - **ID**: 2944
-- **Description**: `There is no description`
+- **Description**: 
 - **Verifier**: GMD xeox
 - **Holder**: NotJoeBiden
 - **Minimal Percent**: 100%
@@ -2462,7 +2462,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #274: GLARE
 
 - **ID**: 3057
-- **Description**: `There is no description`
+- **Description**: 
 - **Verifier**: fusion425
 - **Holder**: hazey7
 - **Minimal Percent**: 100%
@@ -2480,7 +2480,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #276: X84
 
 - **ID**: 2826
-- **Description**: `There is no description`
+- **Description**: 
 - **Verifier**: XavT
 - **Holder**: XavT
 - **Minimal Percent**: 100%
@@ -2606,7 +2606,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #290: RAM
 
 - **ID**: 2648
-- **Description**: 0x0000000E ERROR_OUTOF_MEMORY | Verified by Zipi
+- **Description**: 0x0000000E                 ERROR_OUTOF_MEMORY |  Verified by Zipi
 - **Verifier**: Zipi
 - **Holder**: James
 - **Minimal Percent**: 100%
@@ -2759,7 +2759,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #307: SisuSonic
 
 - **ID**: 2938
-- **Description**: `There is no description`
+- **Description**: 
 - **Verifier**: JHDash77
 - **Holder**: RpgRaketti
 - **Minimal Percent**: 100%
@@ -2939,7 +2939,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #327: Icefall
 
 - **ID**: 3056
-- **Description**: `There is no description`
+- **Description**: 
 - **Verifier**: BreadDemon
 - **Holder**: Filqh
 - **Minimal Percent**: 100%
@@ -3002,7 +3002,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #334: Memento
 
 - **ID**: 3026
-- **Description**: `There is no description`
+- **Description**: 
 - **Verifier**: Johnfree
 - **Holder**: lucairy
 - **Minimal Percent**: 100%
@@ -3254,7 +3254,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #362: Yo Ass Skrrt
 
 - **ID**: 3055
-- **Description**: `There is no description`
+- **Description**: 
 - **Verifier**: Dolphy
 - **Holder**: cherryteam
 - **Minimal Percent**: 100%
@@ -3335,7 +3335,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #371: The Moon
 
 - **ID**: 3054
-- **Description**: `There is no description`
+- **Description**: 
 - **Verifier**: GDClutter
 - **Holder**: fhewi
 - **Minimal Percent**: 100%
@@ -3380,7 +3380,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #376: Charge
 
 - **ID**: 3053
-- **Description**: `There is no description`
+- **Description**: 
 - **Verifier**: Yerylik
 - **Holder**: Yerylik
 - **Minimal Percent**: 100%
@@ -3506,7 +3506,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #390: Glitch Control
 
 - **ID**: 3052
-- **Description**: `There is no description`
+- **Description**: 
 - **Verifier**: Laughingg
 - **Holder**: Howler
 - **Minimal Percent**: 100%
@@ -4028,7 +4028,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #448: Come to Daddy
 
 - **ID**: 2958
-- **Description**: `There is no description`
+- **Description**: 
 - **Verifier**: exsii
 - **Holder**: Kapycta999
 - **Minimal Percent**: 100%
@@ -4055,7 +4055,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #451: Propulsion
 
 - **ID**: 3051
-- **Description**: `There is no description`
+- **Description**: 
 - **Verifier**: Cersia
 - **Holder**: Cersia
 - **Minimal Percent**: 100%
@@ -4136,7 +4136,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #460: FIREPOWER
 
 - **ID**: 2345
-- **Description**: L|O*O|J Your skull as a child did not drop as hard as this map L|X_X|J L|+*+|J [Icarus CC2]
+- **Description**: L|O_O|J Your skull as a child did not drop as hard as this map L|X_X|J L|+_+|J [Icarus CC2]
 - **Verifier**: Sillow
 - **Holder**: Sillow
 - **Minimal Percent**: 100%
@@ -4145,7 +4145,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #461: Overclock
 
 - **ID**: 2825
-- **Description**: `There is no description`
+- **Description**: 
 - **Verifier**: XavT
 - **Holder**: XavT
 - **Minimal Percent**: 100%
@@ -4559,7 +4559,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #507: Xronier
 
 - **ID**: 1973
-- **Description**: -//- [[- Road to &quot;Xronial Xero:&quot; Chapter 1 -]] -//- Verified by JinoBeats
+- **Description**: -//- [[ - Road to &quot;Xronial Xero:&quot; Chapter 1 - ]] -//- Verified by JinoBeats
 - **Verifier**: JinoBeats
 - **Holder**: JinoBeats
 - **Minimal Percent**: 100%
@@ -4812,7 +4812,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 
 - **ID**: 2923
 - **Description**: $GASLIGHT GATEKEEP AND SO ON$ # FREE HAX
-- **Verifier**: Gam3r2234
+- **Verifier**:  Gam3r2234
 - **Holder**: koko43
 - **Minimal Percent**: 100%
 - **Score**: 0.76
@@ -4874,7 +4874,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #542: Phantasmagoria
 
 - **ID**: 2823
-- **Description**: `There is no description`
+- **Description**: 
 - **Verifier**: Polyden
 - **Holder**: XavT
 - **Minimal Percent**: 100%
@@ -5009,7 +5009,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #557: Bass Cave
 
 - **ID**: 2238
-- **Description**: b b b b b b bass knight
+- **Description**: b b b b b b bass knight 
 - **Verifier**: nSwish
 - **Holder**: Bloodshot
 - **Minimal Percent**: 100%
@@ -5306,7 +5306,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #590: Cadrega Mode
 
 - **ID**: 1679
-- **Description**: Not a sequel to Cadrega City nor Carnage Mode, just Pennutoh being Pennutoh. Special effects by Golden and PoisoN. Verified by EroGamer.
+- **Description**: Not a sequel to Cadrega City nor Carnage Mode, just Pennutoh being Pennutoh. Special effects by Golden and PoisoN. Verified by EroGamer. 
 - **Verifier**: Clumps
 - **Holder**: TCTeam
 - **Minimal Percent**: 100%
@@ -5405,7 +5405,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #601: Disastrous DanceOff
 
 - **ID**: 3050
-- **Description**: `There is no description`
+- **Description**: 
 - **Verifier**: Gelforce
 - **Holder**: Blaster1337
 - **Minimal Percent**: 100%
@@ -5414,7 +5414,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #602: OUCH
 
 - **ID**: 2966
-- **Description**: `There is no description`
+- **Description**: 
 - **Verifier**: Zeronium
 - **Holder**: awesomeme360
 - **Minimal Percent**: 100%
@@ -5621,7 +5621,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #625: SUPERCONDUCTOR
 
 - **ID**: 2987
-- **Description**: My first solo extreme.
+- **Description**: My first solo extreme. 
 - **Verifier**: At242
 - **Holder**: At242
 - **Minimal Percent**: 100%
@@ -5666,7 +5666,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #630: Delicious Dogs
 
 - **ID**: 3049
-- **Description**: `There is no description`
+- **Description**: 
 - **Verifier**: SupaCLUCK
 - **Holder**: SupaCLUCK
 - **Minimal Percent**: 100%
@@ -5702,7 +5702,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #634: The Man With No Eyes
 
 - **ID**: 2957
-- **Description**: `There is no description`
+- **Description**: 
 - **Verifier**: Plushiest
 - **Holder**: Plushiest
 - **Minimal Percent**: 100%
@@ -5837,7 +5837,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #649: BREAK DOWN
 
 - **ID**: 3048
-- **Description**: `There is no description`
+- **Description**: 
 - **Verifier**: qalli
 - **Holder**: qalli
 - **Minimal Percent**: 100%
@@ -5982,7 +5982,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 
 - **ID**: 2820
 - **Description**: You CLEARLY own an air fryer.
-- **Verifier**: razsta4ax
+- **Verifier**:  razsta4ax
 - **Holder**: Aimbotter2123
 - **Minimal Percent**: 100%
 - **Score**: 0.65
@@ -6062,7 +6062,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #674: Biohazard
 
 - **ID**: 3047
-- **Description**: `There is no description`
+- **Description**: 
 - **Verifier**: ShadowMyth
 - **Holder**: Mattsstuff
 - **Minimal Percent**: 100%
@@ -6116,7 +6116,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #680: HyperHyperHyperHyper
 
 - **ID**: 3046
-- **Description**: `There is no description`
+- **Description**: 
 - **Verifier**: Arveal
 - **Holder**: Twandash
 - **Minimal Percent**: 100%
@@ -6629,7 +6629,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #737: Chromatic
 
 - **ID**: 3045
-- **Description**: `There is no description`
+- **Description**: 
 - **Verifier**: Evandbrown
 - **Holder**: orangutanggg
 - **Minimal Percent**: 100%
@@ -6809,7 +6809,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #757: Fabulous
 
 - **ID**: 2956
-- **Description**: `There is no description`
+- **Description**: 
 - **Verifier**: OnlineplaY
 - **Holder**: Texic
 - **Minimal Percent**: 100%
@@ -6980,7 +6980,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #776: 3ABNCNMOCT6
 
 - **ID**: 3044
-- **Description**: `There is no description`
+- **Description**: 
 - **Verifier**: loovigmd
 - **Holder**: IIIGamBiTIII
 - **Minimal Percent**: 100%
@@ -6989,7 +6989,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #777: SANTA FE
 
 - **ID**: 3025
-- **Description**: `There is no description`
+- **Description**: 
 - **Verifier**: JoacoPe25
 - **Holder**: JoacoPe25
 - **Minimal Percent**: 100%
@@ -7034,7 +7034,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #782: ACHROMATISM
 
 - **ID**: 3043
-- **Description**: `There is no description`
+- **Description**: 
 - **Verifier**: Pikonom
 - **Holder**: CirclezGD
 - **Minimal Percent**: 100%
@@ -7088,7 +7088,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #788: Revelations
 
 - **ID**: 3024
-- **Description**: `There is no description`
+- **Description**: 
 - **Verifier**: vridge
 - **Holder**: vRidge
 - **Minimal Percent**: 100%
@@ -7295,7 +7295,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #811: soft
 
 - **ID**: 3042
-- **Description**: `There is no description`
+- **Description**: 
 - **Verifier**: Catliest
 - **Holder**: itsAneko
 - **Minimal Percent**: 100%
@@ -7412,7 +7412,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #824: SLAY MOMENT
 
 - **ID**: 3041
-- **Description**: `There is no description`
+- **Description**: 
 - **Verifier**: RafaBirds
 - **Holder**: rafabirds
 - **Minimal Percent**: 100%
@@ -7430,9 +7430,9 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #826: OOPZ
 
 - **ID**: 1538
-- **Description**: Contarian Extreme Demon. Verified by Yours Truly )Me
-- **Verifier**: Inside
-- **Holder**: Inside
+- **Description**: Contarian Extreme Demon. Verified by Yours  Truly )Me
+- **Verifier**:  Inside
+- **Holder**:  Inside
 - **Minimal Percent**: 100%
 - **Score**: 0.52
 
@@ -7601,7 +7601,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #845: Fearful Reflection
 
 - **ID**: 3023
-- **Description**: `There is no description`
+- **Description**: 
 - **Verifier**: Kevelia
 - **Holder**: GD Iris
 - **Minimal Percent**: 100%
@@ -7718,7 +7718,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #858: SERAPHIM
 
 - **ID**: 3022
-- **Description**: `There is no description`
+- **Description**: 
 - **Verifier**: Dorami
 - **Holder**: Gi4nv
 - **Minimal Percent**: 100%
@@ -7898,7 +7898,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #878: Callisto
 
 - **ID**: 2063
-- **Description**: Edge of the World my beloved &lt;3 F\*\*\* Callisto, all my homies hate Callisto #RateEotW
+- **Description**: Edge of the World my beloved &lt;3 F*** Callisto, all my homies hate Callisto #RateEotW
 - **Verifier**: Latezk
 - **Holder**: L4TeZk
 - **Minimal Percent**: 100%
@@ -8078,7 +8078,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #898: Galaxy Gas
 
 - **ID**: 3040
-- **Description**: `There is no description`
+- **Description**: 
 - **Verifier**: ItzApex
 - **Holder**: xSlendy
 - **Minimal Percent**: 100%
@@ -8105,7 +8105,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #901: Auroral Valhalla
 
 - **ID**: 2965
-- **Description**: `There is no description`
+- **Description**: 
 - **Verifier**: Anirium
 - **Holder**: Anirium
 - **Minimal Percent**: 100%
@@ -8123,7 +8123,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #903: Goldcrest Palace
 
 - **ID**: 2593
-- **Description**: Jouurney your way through luscious gardens and picturesque scenery! Gameplay by Paul333, 1.9 decoratoins by me. verified by YakobNugget.
+- **Description**: Jouurney your way through luscious gardens and  picturesque scenery! Gameplay by Paul333, 1.9 decoratoins by me. verified by YakobNugget.
 - **Verifier**: YakobNugget
 - **Holder**: GrenadeofTacos
 - **Minimal Percent**: 100%
@@ -8276,7 +8276,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #920: wiggle water
 
 - **ID**: 3039
-- **Description**: `There is no description`
+- **Description**: 
 - **Verifier**: ikkyseen
 - **Holder**: ikkyseen
 - **Minimal Percent**: 100%
@@ -8321,7 +8321,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #925: Treatment Facility
 
 - **ID**: 2952
-- **Description**: `There is no description`
+- **Description**: 
 - **Verifier**: mratomicc
 - **Holder**: MMANH
 - **Minimal Percent**: 100%
@@ -8375,7 +8375,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #931: Kasuigetsu
 
 - **ID**: 2951
-- **Description**: `There is no description`
+- **Description**: 
 - **Verifier**: Arshadow
 - **Holder**: dalrus666
 - **Minimal Percent**: 100%
@@ -8474,7 +8474,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #942: Evening Star
 
 - **ID**: 3021
-- **Description**: `There is no description`
+- **Description**: 
 - **Verifier**: Sensawa
 - **Holder**: Sensawa
 - **Minimal Percent**: 100%
@@ -8700,7 +8700,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 
 - **ID**: 2998
 - **Description**: HAPPY MAYMORY! This is the official sequel to Lost Love, so get ready for some intense memory gameplay :)))
-- **Verifier**: Afumaii
+- **Verifier**:  Afumaii
 - **Holder**: TheBlackHell
 - **Minimal Percent**: 100%
 - **Score**: 0.4
@@ -8744,7 +8744,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #972: Paranoid Android
 
 - **ID**: 3020
-- **Description**: `There is no description`
+- **Description**: 
 - **Verifier**: Electrx
 - **Holder**: Alass
 - **Minimal Percent**: 100%
@@ -8843,7 +8843,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #983: Shattered Lens
 
 - **ID**: 3038
-- **Description**: `There is no description`
+- **Description**: 
 - **Verifier**: SoggyDash
 - **Holder**: XDJoa
 - **Minimal Percent**: 100%
@@ -8924,7 +8924,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #992: Gaming 35
 
 - **ID**: 2754
-- **Description**: `There is no description`
+- **Description**: 
 - **Verifier**: snowkeo
 - **Holder**: ZoinkDoink
 - **Minimal Percent**: 100%
@@ -8969,7 +8969,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #997: Disastrous Downpour
 
 - **ID**: 1985
-- **Description**: this is why i dont go outside, im all wet now -\_-
+- **Description**: this is why i dont go outside, im all wet now -_-
 - **Verifier**: Ka1sa
 - **Holder**: kodex360
 - **Minimal Percent**: 100%
@@ -9023,7 +9023,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #1003: M A N I X
 
 - **ID**: 2727
-- **Description**: `There is no description`
+- **Description**: 
 - **Verifier**: KrmaL
 - **Holder**: KrmaL
 - **Minimal Percent**: 100%
@@ -9212,7 +9212,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #1024: cold planet
 
 - **ID**: 3019
-- **Description**: `There is no description`
+- **Description**: 
 - **Verifier**: Slijee
 - **Holder**: Drakosa
 - **Minimal Percent**: 100%
@@ -9428,7 +9428,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #1048: SOAP
 
 - **ID**: 3037
-- **Description**: `There is no description`
+- **Description**: 
 - **Verifier**: Voltren
 - **Holder**: nikoberry
 - **Minimal Percent**: 100%
@@ -9511,7 +9511,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 - **ID**: 2997
 - **Description**: My first extreme demon map! Verified by vinyl3141 | thanks for vinyl3141, crox3nt, Knicide, Bjh6078, Sogak and you! :>
 - **Verifier**: vinyl
-- **Holder**: aiden1204
+- **Holder**: aiden1204 
 - **Minimal Percent**: 100%
 - **Score**: 0.32
 
@@ -9563,7 +9563,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #1063: Made from Ash
 
 - **ID**: 3036
-- **Description**: `There is no description`
+- **Description**: 
 - **Verifier**: Hestonic
 - **Holder**: videogamermega
 - **Minimal Percent**: 100%
@@ -9644,7 +9644,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #1072: Grind District
 
 - **ID**: 2996
-- **Description**: `There is no description`
+- **Description**: 
 - **Verifier**: CheemMan+
 - **Holder**: Airz
 - **Minimal Percent**: 100%
@@ -9797,7 +9797,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #1089: Noble Plague
 
 - **ID**: 2950
-- **Description**: `There is no description`
+- **Description**: 
 - **Verifier**: yJulien
 - **Holder**: FroxyPlay
 - **Minimal Percent**: 100%
@@ -9896,7 +9896,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #1100: Buff This 2
 
 - **ID**: 3008
-- **Description**: `There is no description`
+- **Description**: 
 - **Verifier**: MetaManRB
 - **Holder**: MetaManZ
 - **Minimal Percent**: 100%
@@ -10022,7 +10022,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #1114: Frightful Melody
 
 - **ID**: 1834
-- **Description**: Between the screams of the dead and countless souls' incessent cries plays a pretty catchy guitar tune. Rate 10\* extreme (slightly nerfed)
+- **Description**: Between the screams of the dead and countless souls' incessent cries plays a pretty catchy guitar tune. Rate 10* extreme (slightly nerfed)
 - **Verifier**: FarzzZinj
 - **Holder**: RadiationV2
 - **Minimal Percent**: 100%
@@ -10077,7 +10077,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 
 - **ID**: 2794
 - **Description**: Getting sued by Nintendo any% glitchless speedrun. Love letter to my favorite wii game & my current best collab.
-- **Verifier**: rei
+- **Verifier**:  rei
 - **Holder**: stanstanmansan
 - **Minimal Percent**: 100%
 - **Score**: 0.27
@@ -10184,7 +10184,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #1132: In Circles
 
 - **ID**: 3018
-- **Description**: `There is no description`
+- **Description**: 
 - **Verifier**: Somie
 - **Holder**: Somie
 - **Minimal Percent**: 100%
@@ -10230,7 +10230,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 
 - **ID**: 2995
 - **Description**: melons off to defend their home land. glory to the waterland
-- **Verifier**: Hypno
+- **Verifier**:  Hypno
 - **Holder**: ImMaxX1
 - **Minimal Percent**: 100%
 - **Score**: 0.26
@@ -10319,7 +10319,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #1147: Evil Inside
 
 - **ID**: 2994
-- **Description**: `There is no description`
+- **Description**: 
 - **Verifier**: LordVadercraft
 - **Holder**: sycor
 - **Minimal Percent**: 100%
@@ -10364,7 +10364,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #1152: UNG
 
 - **ID**: 2782
-- **Description**: `There is no description`
+- **Description**: 
 - **Verifier**: InterChange
 - **Holder**: An Gyung
 - **Minimal Percent**: 100%
@@ -10499,7 +10499,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #1167: Goober Level
 
 - **ID**: 3007
-- **Description**: `There is no description`
+- **Description**: 
 - **Verifier**: Aerodynosaur
 - **Holder**: AbysmalBen
 - **Minimal Percent**: 100%
@@ -10508,7 +10508,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #1168: Color Beam
 
 - **ID**: 3035
-- **Description**: `There is no description`
+- **Description**: 
 - **Verifier**: Bizaare
 - **Holder**: Bizaare
 - **Minimal Percent**: 100%
@@ -10526,7 +10526,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #1170: Desureta
 
 - **ID**: 3034
-- **Description**: `There is no description`
+- **Description**: 
 - **Verifier**: Kinshi
 - **Holder**: TheRealKimir
 - **Minimal Percent**: 100%
@@ -10616,7 +10616,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #1180: My Own Funeral
 
 - **ID**: 3006
-- **Description**: `There is no description`
+- **Description**: 
 - **Verifier**: Woose
 - **Holder**: Say0nar
 - **Minimal Percent**: 100%
@@ -10661,7 +10661,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #1185: BRAINWASH
 
 - **ID**: 2890
-- **Description**: My First Mega Collab :) || Verified by spcreat
+- **Description**: My First Mega Collab :) || Verified by spcreat 
 - **Verifier**: spcreat
 - **Holder**: plxzTM
 - **Minimal Percent**: 100%
@@ -10724,7 +10724,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #1192: squelch
 
 - **ID**: 3033
-- **Description**: `There is no description`
+- **Description**: 
 - **Verifier**: Bram
 - **Holder**: whlt
 - **Minimal Percent**: 100%
@@ -10742,7 +10742,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #1194: stand in the snow
 
 - **ID**: 1968
-- **Description**: Wander through a snowstorm where you can only see yourself. Verified by JHdash77. (original song download link can be found in my profile)
+- **Description**: Wander through a snowstorm where you can only see yourself.  Verified by JHdash77. (original song download link can be found in my profile)
 - **Verifier**: JHDash77
 - **Holder**: Arkki
 - **Minimal Percent**: 100%
@@ -10949,7 +10949,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #1217: boson
 
 - **ID**: 3005
-- **Description**: `There is no description`
+- **Description**: 
 - **Verifier**: ZeroSR
 - **Holder**: ZeroSR
 - **Minimal Percent**: 100%
@@ -10994,8 +10994,8 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #1222: Mandragora
 
 - **ID**: 1539
-- **Description**: An all Indonesian classic themed Megacollab that started more than a year ago | Re- Verified by PrayogaGD | Pass !&)\*$%
-- **Verifier**: Prayoga
+- **Description**: An all Indonesian classic themed Megacollab that started more than a year ago | Re- Verified by PrayogaGD | Pass !&)*$%
+- **Verifier**:  Prayoga
 - **Holder**: GD ParaDoX
 - **Minimal Percent**: 100%
 - **Score**: 0.19
@@ -11030,7 +11030,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #1226: Steel Terrors
 
 - **ID**: 3017
-- **Description**: `There is no description`
+- **Description**: 
 - **Verifier**: DreamZoneGD
 - **Holder**: DreamZoneGD
 - **Minimal Percent**: 100%
@@ -11111,7 +11111,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #1235: SHINE
 
 - **ID**: 3016
-- **Description**: `There is no description`
+- **Description**: 
 - **Verifier**: asmallsock
 - **Holder**: asmallsock
 - **Minimal Percent**: 100%
@@ -11192,7 +11192,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #1244: Without U
 
 - **ID**: 3004
-- **Description**: `There is no description`
+- **Description**: 
 - **Verifier**: Zeronium
 - **Holder**: NoobyPro27
 - **Minimal Percent**: 100%
@@ -11372,7 +11372,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #1264: Bunny Demon
 
 - **ID**: 3003
-- **Description**: `There is no description`
+- **Description**: 
 - **Verifier**: Elirpscalion
 - **Holder**: Pncsr
 - **Minimal Percent**: 100%
@@ -11445,7 +11445,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 
 - **ID**: 2777
 - **Description**: 'Cause in the dead of night With you by my side There's no cold that could cut through
-- **Verifier**: zoidylol
+- **Verifier**:  zoidylol
 - **Holder**: Split72
 - **Minimal Percent**: 100%
 - **Score**: 0.14
@@ -11579,7 +11579,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #1287: Liz
 
 - **ID**: 3015
-- **Description**: `There is no description`
+- **Description**: 
 - **Verifier**: IgongDae
 - **Holder**: issanagay
 - **Minimal Percent**: 100%
@@ -11786,7 +11786,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #1310: EdenCity
 
 - **ID**: 3014
-- **Description**: `There is no description`
+- **Description**: 
 - **Verifier**: NateFH
 - **Holder**: NateFH
 - **Minimal Percent**: 100%
@@ -11858,7 +11858,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #1318: Stop Breathing
 
 - **ID**: 2874
-- **Description**: Insane 6,065 273 Long Another Ivashka's dropped solo was finished by a group of friends! Verified by Sager
+- **Description**: Insane  6,065  273  Long Another Ivashka's dropped solo was finished by a group of friends! Verified by Sager
 - **Verifier**: BurgerR
 - **Holder**: NikVer
 - **Minimal Percent**: 100%
@@ -11876,7 +11876,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #1320: Fexty auto
 
 - **ID**: 2835
-- **Description**: `There is no description`
+- **Description**: 
 - **Verifier**: Blankb
 - **Holder**: Renn241
 - **Minimal Percent**: 100%
@@ -12110,7 +12110,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #1346: Forte Mezzo
 
 - **ID**: 3013
-- **Description**: `There is no description`
+- **Description**: 
 - **Verifier**: vkrz
 - **Holder**: vekarzi
 - **Minimal Percent**: 100%
@@ -12155,7 +12155,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #1351: Make it funky
 
 - **ID**: 3032
-- **Description**: `There is no description`
+- **Description**: 
 - **Verifier**: darcii
 - **Holder**: Darcii
 - **Minimal Percent**: 100%
@@ -12200,7 +12200,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #1356: Jumping Demons
 
 - **ID**: 3031
-- **Description**: `There is no description`
+- **Description**: 
 - **Verifier**: smarted
 - **Holder**: Smarted
 - **Minimal Percent**: 100%
@@ -12218,7 +12218,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #1358: Aoreta
 
 - **ID**: 3012
-- **Description**: `There is no description`
+- **Description**: 
 - **Verifier**: Hael9
 - **Holder**: HaelNineUser
 - **Minimal Percent**: 100%
@@ -12236,7 +12236,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #1360: Ephemeral Dream
 
 - **ID**: 3011
-- **Description**: `There is no description`
+- **Description**: 
 - **Verifier**: LastPrismAlex
 - **Holder**: LastPrismAlex
 - **Minimal Percent**: 100%
@@ -12254,7 +12254,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #1362: Polarity
 
 - **ID**: 3002
-- **Description**: `There is no description`
+- **Description**: 
 - **Verifier**: kwezy
 - **Holder**: Gotorotak
 - **Minimal Percent**: 100%
@@ -12272,7 +12272,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #1364: ANNIHILATED
 
 - **ID**: 3030
-- **Description**: `There is no description`
+- **Description**: 
 - **Verifier**: YraX
 - **Holder**: AlvaroRH99
 - **Minimal Percent**: 100%
@@ -12299,7 +12299,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #1367: Misery Loves
 
 - **ID**: 3029
-- **Description**: `There is no description`
+- **Description**: 
 - **Verifier**: schitt
 - **Holder**: schitt
 - **Minimal Percent**: 100%
@@ -12326,7 +12326,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #1370: CECTPA
 
 - **ID**: 2812
-- **Description**: `There is no description`
+- **Description**: 
 - **Verifier**: Sera223
 - **Holder**: AzTeamQQ
 - **Minimal Percent**: 100%
@@ -12443,7 +12443,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #1383: Through The Decay
 
 - **ID**: 3010
-- **Description**: `There is no description`
+- **Description**: 
 - **Verifier**: Spark
 - **Holder**: sparktwo
 - **Minimal Percent**: 100%
@@ -12470,7 +12470,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #1386: The Reward
 
 - **ID**: 3009
-- **Description**: `There is no description`
+- **Description**: 
 - **Verifier**: Trick
 - **Holder**: vit12
 - **Minimal Percent**: 100%
@@ -12659,7 +12659,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #1407: Prismatic
 
 - **ID**: 2731
-- **Description**: `There is no description`
+- **Description**: 
 - **Verifier**: CatGeo
 - **Holder**: CatGeo
 - **Minimal Percent**: 100%
@@ -12758,7 +12758,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #1418: R3D ROOM
 
 - **ID**: 3028
-- **Description**: `There is no description`
+- **Description**: 
 - **Verifier**: Nexus
 - **Holder**: Angel669
 - **Minimal Percent**: 100%
@@ -12974,7 +12974,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #1442: Final Epilogue
 
 - **ID**: 1810
-- **Description**: Ehhhh basicly a mix of my levels in revamped versions, I thought it would have been cool as my last 2.0 level. Insane demon hopefully .\_.)/
+- **Description**: Ehhhh basicly a mix of my levels in revamped versions, I thought it would have been cool as my last 2.0 level. Insane demon hopefully ._.)/
 - **Verifier**: Eggnog
 - **Holder**: Pennutoh
 - **Minimal Percent**: 100%
@@ -12983,7 +12983,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #1443: CICADA3302
 
 - **ID**: 2212
-- **Description**: `There is no description`
+- **Description**: 
 - **Verifier**: Nexus
 - **Holder**: Darwin
 - **Minimal Percent**: 100%
@@ -13001,7 +13001,7 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 ## #1445: SIGSEGV
 
 - **ID**: 2373
-- **Description**: _((char _)NULL) = '3';
+- **Description**: *((char *)NULL) = '3';
 - **Verifier**: Sminx
 - **Holder**: Sminx
 - **Minimal Percent**: 100%
@@ -13321,3 +13321,4 @@ _Last updated: 2025-07-07T16:00:46.165Z (July 7, 2025 at 06:00 PM)_
 - **Holder**: zNickname
 - **Minimal Percent**: 100%
 - **Score**: 0.05
+

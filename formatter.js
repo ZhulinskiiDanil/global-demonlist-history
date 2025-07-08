@@ -116,7 +116,9 @@ async function formatHistory() {
     history.list.forEach((level) => {
       markdown += `## #${level.place}: ${level.name}\n\n`;
       markdown += `- **ID**: ${level.id}\n`;
-      markdown += `- **Description**: ${level.description}\n`;
+      markdown += `- **Description**: ${
+        level.description || '`There is no description`'
+      }\n`;
       markdown += `- **Verifier**: ${level.verifier}\n`;
       markdown += `- **Holder**: ${level.holder}\n`;
       markdown += `- **Minimal Percent**: ${level.minimal_percent}%\n`;
@@ -223,7 +225,7 @@ async function generateDiff() {
 
         if (changes.length > 0) {
           hasChanges = true;
-          markdown += `## #${curr.place}: ${curr.name}\n`;
+          markdown += `## #${curr.place}: ${curr.name}\n\n`;
           markdown += changes.join('\n') + '\n\n';
         }
       }

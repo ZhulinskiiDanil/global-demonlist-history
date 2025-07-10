@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-07-09T08:40:57.032Z",
+  "updatedAt": "2025-07-10T08:31:24.219Z",
   "list": [
     {
       "id": 2976,
@@ -3140,8 +3140,7 @@
       "song": ".",
       "created_in": "2.2",
       "password": "Free Copy",
-      "is_completed": false,
-      "need_new_label": true
+      "is_completed": false
     },
     {
       "id": 2383,
@@ -6686,8 +6685,7 @@
       "song": ".",
       "created_in": "2.1",
       "password": "Free Copy",
-      "is_completed": false,
-      "need_new_label": true
+      "is_completed": false
     },
     {
       "id": 2196,
@@ -15559,8 +15557,7 @@
       "song": ".",
       "created_in": "2.2",
       "password": "Free Copy",
-      "is_completed": false,
-      "need_new_label": true
+      "is_completed": false
     },
     {
       "id": 1900,
@@ -15781,8 +15778,7 @@
       "song": ".",
       "created_in": "2.2",
       "password": "Free Copy",
-      "is_completed": false,
-      "need_new_label": true
+      "is_completed": false
     },
     {
       "id": 1962,
@@ -16924,8 +16920,7 @@
       "song": ".",
       "created_in": "2.1",
       "password": "Free Copy",
-      "is_completed": false,
-      "need_new_label": true
+      "is_completed": false
     },
     {
       "id": 2821,
@@ -17185,8 +17180,7 @@
       "song": ".",
       "created_in": "2.1",
       "password": "Free Copy",
-      "is_completed": false,
-      "need_new_label": true
+      "is_completed": false
     },
     {
       "id": 1808,
@@ -18771,10 +18765,30 @@
       "is_completed": false
     },
     {
+      "id": 2532,
+      "level_id": 61591522,
+      "verifier_id": 15390,
+      "place": 938,
+      "score": 0.42,
+      "minimal_percent": 100,
+      "length": 73,
+      "objects": 125016,
+      "name": "Inflective",
+      "description": "This inflection, a tangent of our reality that challenges both the strongest wills and the fastest spammers. Only the truly divergent can navigate through this maelstrom. Verified by Vorgogne",
+      "verifier": "Vorgogne",
+      "creator": "Texic and more",
+      "holder": "Mojitoz",
+      "video": "https://youtu.be/JR2Y8jIwLNk",
+      "song": "https://drive.google.com/drive/folders/1xXexRd7qy-oVN90z3BGr5HYRjsDhkehV?usp=share_link",
+      "created_in": "2.1",
+      "password": "Free Copy",
+      "is_completed": false
+    },
+    {
       "id": 2845,
       "level_id": 102061532,
       "verifier_id": 3687,
-      "place": 938,
+      "place": 939,
       "score": 0.42,
       "minimal_percent": 100,
       "length": 84,
@@ -18794,7 +18808,7 @@
       "id": 2244,
       "level_id": 85085685,
       "verifier_id": 15368,
-      "place": 939,
+      "place": 940,
       "score": 0.42,
       "minimal_percent": 100,
       "length": 90,
@@ -18814,7 +18828,7 @@
       "id": 2241,
       "level_id": 61429754,
       "verifier_id": 15858,
-      "place": 940,
+      "place": 941,
       "score": 0.42,
       "minimal_percent": 100,
       "length": 72,
@@ -18834,7 +18848,7 @@
       "id": 3021,
       "level_id": 93172147,
       "verifier_id": 24614,
-      "place": 941,
+      "place": 942,
       "score": 0.42,
       "minimal_percent": 100,
       "length": 78,
@@ -18848,14 +18862,13 @@
       "song": ".",
       "created_in": "2.1",
       "password": "Free Copy",
-      "is_completed": true,
-      "need_new_label": true
+      "is_completed": true
     },
     {
       "id": 1625,
       "level_id": 93721233,
       "verifier_id": 15369,
-      "place": 942,
+      "place": 943,
       "score": 0.42,
       "minimal_percent": 100,
       "length": 61,
@@ -18875,7 +18888,7 @@
       "id": 2786,
       "level_id": 108821040,
       "verifier_id": 15088,
-      "place": 943,
+      "place": 944,
       "score": 0.42,
       "minimal_percent": 100,
       "length": 83,
@@ -18895,7 +18908,7 @@
       "id": 2443,
       "level_id": 62551239,
       "verifier_id": 14225,
-      "place": 944,
+      "place": 945,
       "score": 0.42,
       "minimal_percent": 100,
       "length": 71,
@@ -18915,7 +18928,7 @@
       "id": 2667,
       "level_id": 56460850,
       "verifier_id": 14016,
-      "place": 945,
+      "place": 946,
       "score": 0.42,
       "minimal_percent": 100,
       "length": 106,
@@ -18935,8 +18948,8 @@
       "id": 2963,
       "level_id": 93429323,
       "verifier_id": 16298,
-      "place": 946,
-      "score": 0.42,
+      "place": 947,
+      "score": 0.41,
       "minimal_percent": 100,
       "length": 63,
       "objects": 19031,
@@ -18955,7 +18968,7 @@
       "id": 2003,
       "level_id": 71599414,
       "verifier_id": 14757,
-      "place": 947,
+      "place": 948,
       "score": 0.41,
       "minimal_percent": 100,
       "length": 80,
@@ -18975,7 +18988,7 @@
       "id": 2679,
       "level_id": 104444534,
       "verifier_id": 7139,
-      "place": 948,
+      "place": 949,
       "score": 0.41,
       "minimal_percent": 100,
       "length": 160,
@@ -18995,7 +19008,7 @@
       "id": 1675,
       "level_id": 91413592,
       "verifier_id": 15370,
-      "place": 949,
+      "place": 950,
       "score": 0.41,
       "minimal_percent": 100,
       "length": 89,
@@ -19015,7 +19028,7 @@
       "id": 1877,
       "level_id": 57390806,
       "verifier_id": 16244,
-      "place": 950,
+      "place": 951,
       "score": 0.41,
       "minimal_percent": 100,
       "length": 116,
@@ -19035,7 +19048,7 @@
       "id": 1673,
       "level_id": 84829178,
       "verifier_id": 15049,
-      "place": 951,
+      "place": 952,
       "score": 0.41,
       "minimal_percent": 100,
       "length": 66,
@@ -19055,7 +19068,7 @@
       "id": 2146,
       "level_id": 59966737,
       "verifier_id": 14061,
-      "place": 952,
+      "place": 953,
       "score": 0.41,
       "minimal_percent": 100,
       "length": 108,
@@ -19075,7 +19088,7 @@
       "id": 2026,
       "level_id": 78374157,
       "verifier_id": 14876,
-      "place": 953,
+      "place": 954,
       "score": 0.41,
       "minimal_percent": 100,
       "length": 66,
@@ -19095,7 +19108,7 @@
       "id": 1682,
       "level_id": 97018775,
       "verifier_id": 15371,
-      "place": 954,
+      "place": 955,
       "score": 0.41,
       "minimal_percent": 100,
       "length": 60,
@@ -19115,7 +19128,7 @@
       "id": 1767,
       "level_id": 54988894,
       "verifier_id": 14087,
-      "place": 955,
+      "place": 956,
       "score": 0.41,
       "minimal_percent": 100,
       "length": 221,
@@ -19135,7 +19148,7 @@
       "id": 2257,
       "level_id": 92788300,
       "verifier_id": 15147,
-      "place": 956,
+      "place": 957,
       "score": 0.41,
       "minimal_percent": 100,
       "length": 73,
@@ -19155,7 +19168,7 @@
       "id": 2756,
       "level_id": 96549270,
       "verifier_id": 15345,
-      "place": 957,
+      "place": 958,
       "score": 0.41,
       "minimal_percent": 100,
       "length": 74,
@@ -19175,8 +19188,8 @@
       "id": 2785,
       "level_id": 109050674,
       "verifier_id": 14744,
-      "place": 958,
-      "score": 0.41,
+      "place": 959,
+      "score": 0.4,
       "minimal_percent": 100,
       "length": 72,
       "objects": 67382,
@@ -19195,7 +19208,7 @@
       "id": 2772,
       "level_id": 86752868,
       "verifier_id": 18837,
-      "place": 959,
+      "place": 960,
       "score": 0.4,
       "minimal_percent": 100,
       "length": 80,
@@ -19215,7 +19228,7 @@
       "id": 2469,
       "level_id": 100486896,
       "verifier_id": 14271,
-      "place": 960,
+      "place": 961,
       "score": 0.4,
       "minimal_percent": 100,
       "length": 78,
@@ -19235,7 +19248,7 @@
       "id": 2999,
       "level_id": 117171216,
       "verifier_id": 8225,
-      "place": 961,
+      "place": 962,
       "score": 0.4,
       "minimal_percent": 100,
       "length": 82,
@@ -19255,7 +19268,7 @@
       "id": 2521,
       "level_id": 72941895,
       "verifier_id": 14770,
-      "place": 962,
+      "place": 963,
       "score": 0.4,
       "minimal_percent": 100,
       "length": 83,
@@ -19275,7 +19288,7 @@
       "id": 2174,
       "level_id": 86513236,
       "verifier_id": 3722,
-      "place": 963,
+      "place": 964,
       "score": 0.4,
       "minimal_percent": 100,
       "length": 78,
@@ -19295,7 +19308,7 @@
       "id": 2337,
       "level_id": 92287510,
       "verifier_id": 16273,
-      "place": 964,
+      "place": 965,
       "score": 0.4,
       "minimal_percent": 100,
       "length": 60,
@@ -19315,7 +19328,7 @@
       "id": 2591,
       "level_id": 63354496,
       "verifier_id": 15326,
-      "place": 965,
+      "place": 966,
       "score": 0.4,
       "minimal_percent": 100,
       "length": 266,
@@ -19335,7 +19348,7 @@
       "id": 2592,
       "level_id": 60284098,
       "verifier_id": 15326,
-      "place": 966,
+      "place": 967,
       "score": 0.4,
       "minimal_percent": 100,
       "length": 83,
@@ -19355,7 +19368,7 @@
       "id": 2998,
       "level_id": 118533277,
       "verifier_id": 23453,
-      "place": 967,
+      "place": 968,
       "score": 0.4,
       "minimal_percent": 100,
       "length": 61,
@@ -19375,7 +19388,7 @@
       "id": 2990,
       "level_id": 113036509,
       "verifier_id": 19960,
-      "place": 968,
+      "place": 969,
       "score": 0.4,
       "minimal_percent": 100,
       "length": 82,
@@ -19395,7 +19408,7 @@
       "id": 2029,
       "level_id": 30194711,
       "verifier_id": 14446,
-      "place": 969,
+      "place": 970,
       "score": 0.4,
       "minimal_percent": 100,
       "length": 122,
@@ -19415,8 +19428,8 @@
       "id": 2590,
       "level_id": 87333912,
       "verifier_id": 15326,
-      "place": 970,
-      "score": 0.4,
+      "place": 971,
+      "score": 0.39,
       "minimal_percent": 100,
       "length": 63,
       "objects": 126009,
@@ -19435,7 +19448,7 @@
       "id": 2816,
       "level_id": 110479533,
       "verifier_id": 13995,
-      "place": 971,
+      "place": 972,
       "score": 0.39,
       "minimal_percent": 100,
       "length": 72,
@@ -19455,7 +19468,7 @@
       "id": 3020,
       "level_id": 111731617,
       "verifier_id": 24613,
-      "place": 972,
+      "place": 973,
       "score": 0.39,
       "minimal_percent": 100,
       "length": 342,
@@ -19469,14 +19482,13 @@
       "song": ".",
       "created_in": "2.2",
       "password": "Free Copy",
-      "is_completed": false,
-      "need_new_label": true
+      "is_completed": false
     },
     {
       "id": 1908,
       "level_id": 33364327,
       "verifier_id": 14126,
-      "place": 973,
+      "place": 974,
       "score": 0.39,
       "minimal_percent": 100,
       "length": 163,
@@ -19496,7 +19508,7 @@
       "id": 2206,
       "level_id": 69753245,
       "verifier_id": 14276,
-      "place": 974,
+      "place": 975,
       "score": 0.39,
       "minimal_percent": 100,
       "length": 135,
@@ -19516,7 +19528,7 @@
       "id": 2279,
       "level_id": 80698918,
       "verifier_id": 15085,
-      "place": 975,
+      "place": 976,
       "score": 0.39,
       "minimal_percent": 100,
       "length": 72,
@@ -19536,7 +19548,7 @@
       "id": 2565,
       "level_id": 83357887,
       "verifier_id": 14627,
-      "place": 976,
+      "place": 977,
       "score": 0.39,
       "minimal_percent": 100,
       "length": 60,
@@ -19550,26 +19562,6 @@
       "song": "https://drive.google.com/drive/folders/1pr6vAnV00ApCmTiMP1Zq8NUlSvS7uV7L?usp=sharing",
       "created_in": "2.1",
       "password": "No Copy",
-      "is_completed": false
-    },
-    {
-      "id": 2532,
-      "level_id": 61591522,
-      "verifier_id": 15390,
-      "place": 977,
-      "score": 0.39,
-      "minimal_percent": 100,
-      "length": 73,
-      "objects": 125016,
-      "name": "Inflective",
-      "description": "This inflection, a tangent of our reality that challenges both the strongest wills and the fastest spammers. Only the truly divergent can navigate through this maelstrom. Verified by Vorgogne",
-      "verifier": "Vorgogne",
-      "creator": "Texic and more",
-      "holder": "Mojitoz",
-      "video": "https://youtu.be/JR2Y8jIwLNk",
-      "song": "https://drive.google.com/drive/folders/1xXexRd7qy-oVN90z3BGr5HYRjsDhkehV?usp=share_link",
-      "created_in": "2.1",
-      "password": "Free Copy",
       "is_completed": false
     },
     {
@@ -20511,8 +20503,7 @@
       "song": ".",
       "created_in": "2.2",
       "password": "Free Copy",
-      "is_completed": false,
-      "need_new_label": true
+      "is_completed": false
     },
     {
       "id": 2227,
@@ -22674,8 +22665,7 @@
       "song": ".",
       "created_in": "2.2",
       "password": "Free Copy",
-      "is_completed": false,
-      "need_new_label": true
+      "is_completed": false
     },
     {
       "id": 2795,
@@ -24558,8 +24548,7 @@
       "song": ".",
       "created_in": "2.2",
       "password": "Free Copy",
-      "is_completed": false,
-      "need_new_label": true
+      "is_completed": false
     },
     {
       "id": 2145,
@@ -24739,8 +24728,7 @@
       "song": ".",
       "created_in": "2.2",
       "password": "Free Copy",
-      "is_completed": false,
-      "need_new_label": true
+      "is_completed": false
     },
     {
       "id": 2769,
@@ -25780,8 +25768,7 @@
       "song": ".",
       "created_in": "2.2",
       "password": "Free Copy",
-      "is_completed": false,
-      "need_new_label": true
+      "is_completed": false
     },
     {
       "id": 2498,
@@ -26241,8 +26228,7 @@
       "song": ".",
       "created_in": "2.1",
       "password": "Free Copy",
-      "is_completed": false,
-      "need_new_label": true
+      "is_completed": false
     },
     {
       "id": 2905,
@@ -26962,8 +26948,7 @@
       "song": ".",
       "created_in": "2.2",
       "password": "Free Copy",
-      "is_completed": false,
-      "need_new_label": true
+      "is_completed": false
     },
     {
       "id": 1641,
@@ -27205,8 +27190,7 @@
       "song": ".",
       "created_in": "2.2",
       "password": "Free Copy",
-      "is_completed": false,
-      "need_new_label": true
+      "is_completed": false
     },
     {
       "id": 2289,
@@ -27246,8 +27230,7 @@
       "song": ".",
       "created_in": "2.2",
       "password": "Free Copy",
-      "is_completed": false,
-      "need_new_label": true
+      "is_completed": false
     },
     {
       "id": 2363,
@@ -27709,8 +27692,7 @@
       "song": ".",
       "created_in": "2.2",
       "password": "Free Copy",
-      "is_completed": false,
-      "need_new_label": true
+      "is_completed": false
     },
     {
       "id": 2840,
@@ -27770,8 +27752,7 @@
       "song": ".",
       "created_in": "2.2",
       "password": "Free Copy",
-      "is_completed": false,
-      "need_new_label": true
+      "is_completed": false
     },
     {
       "id": 2076,

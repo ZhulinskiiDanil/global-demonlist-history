@@ -1,6 +1,6 @@
 # Demonlist History
 
-_Last updated: 2025-07-18T06:07:28.293Z (July 18, 2025 at 08:07 AM)_
+_Last updated: 2025-07-18T06:24:03.155Z (July 18, 2025 at 08:24 AM)_
 
 ## #1: Amethyst
 

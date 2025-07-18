@@ -204,37 +204,11 @@ async function generateDiff() {
 
     let hasChanges = false;
 
-    // Сравнение общих уровней по id
-    currLevels.forEach((curr) => {
-      const prev = prevLevels.find((p) => p.id === curr.id);
-      if (prev) {
-        const changes = [];
-
-        if (curr.place !== prev.place)
-          changes.push(`- **Place**: ${prev.place} → ${curr.place}`);
-        if (curr.verifier !== prev.verifier)
-          changes.push(`- **Verifier**: ${prev.verifier} → ${curr.verifier}`);
-        if (curr.holder !== prev.holder)
-          changes.push(`- **Holder**: ${prev.holder} → ${curr.holder}`);
-        if (curr.minimal_percent !== prev.minimal_percent)
-          changes.push(
-            `- **Minimal Percent**: ${prev.minimal_percent}% → ${curr.minimal_percent}%`
-          );
-        if (curr.score !== prev.score)
-          changes.push(`- **Score**: ${prev.score} → ${curr.score}`);
-
-        if (changes.length > 0) {
-          hasChanges = true;
-          markdown += `## #${curr.place}: ${curr.name}\n\n`;
-          markdown += changes.join('\n') + '\n\n';
-        }
-      }
-    });
-
     // Новые уровни
     const added = currLevels.filter(
       (curr) => !prevLevels.some((p) => p.id === curr.id)
     );
+
     if (added.length > 0) {
       hasChanges = true;
       markdown += `## 🆕 Added Levels\n\n`;
@@ -248,6 +222,7 @@ async function generateDiff() {
     const removed = prevLevels.filter(
       (prev) => !currLevels.some((c) => c.id === prev.id)
     );
+
     if (removed.length > 0) {
       hasChanges = true;
       markdown += `## ❌ Removed Levels\n\n`;
@@ -256,6 +231,63 @@ async function generateDiff() {
       });
       markdown += '\n';
     }
+
+    // Сравнение общих уровней по id
+    currLevels.forEach((curr) => {
+      const prev = prevLevels.find((p) => p.id === curr.id);
+      if (prev) {
+        const changes = [];
+
+        const isMainTopPlaceChanged =
+          prev.place <= 50 && Math.abs(curr.place - prev.place) > 1;
+        const isBasicTopPlaceChanged =
+          prev.place > 50 &&
+          prev.place <= 100 &&
+          Math.abs(curr.place - prev.place) > 2;
+        const isExtendedTopPlaceChanged =
+          prev.place > 100 &&
+          prev.place <= 150 &&
+          Math.abs(curr.place - prev.place) > 5;
+        const isBeyondTopPlaceChanged =
+          prev.place > 150 && Math.abs(curr.place - prev.place) > 20;
+        const isTop50PlaceChanged =
+          prev.place <= 50 && prev.place !== curr.place;
+        const isPlaceChanged =
+          isMainTopPlaceChanged ||
+          isBasicTopPlaceChanged ||
+          isTop50PlaceChanged ||
+          isExtendedTopPlaceChanged ||
+          isBeyondTopPlaceChanged;
+
+        if (isPlaceChanged) {
+          changes.push(`- **Place**: ${prev.place} → ${curr.place}`);
+        }
+
+        if (curr.score !== prev.score && isPlaceChanged) {
+          changes.push(`- **Score**: ${prev.score} → ${curr.score}`);
+        }
+
+        if (curr.verifier !== prev.verifier) {
+          changes.push(`- **Verifier**: ${prev.verifier} → ${curr.verifier}`);
+        }
+
+        if (curr.holder !== prev.holder) {
+          changes.push(`- **Holder**: ${prev.holder} → ${curr.holder}`);
+        }
+
+        if (curr.minimal_percent !== prev.minimal_percent) {
+          changes.push(
+            `- **Minimal Percent**: ${prev.minimal_percent}% → ${curr.minimal_percent}%`
+          );
+        }
+
+        if (changes.length > 0) {
+          hasChanges = true;
+          markdown += `## #${curr.place}: ${curr.name}\n\n`;
+          markdown += changes.join('\n') + '\n\n';
+        }
+      }
+    });
 
     // Если изменений нет, добавим сообщение
     if (!hasChanges) {

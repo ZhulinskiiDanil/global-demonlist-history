@@ -285,6 +285,7 @@ async function generateDiff() {
 
         if (changes.length > 0) {
           hasChanges = true;
+          markdown += `# ⚙️ Changes\n\n`;
           markdown += `## #${curr.place}: ${curr.name}\n\n`;
           markdown += changes.join('\n') + '\n\n';
         }

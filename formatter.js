@@ -232,6 +232,8 @@ async function generateDiff() {
       markdown += '\n';
     }
 
+    markdown += `# ⚙️ Changes\n\n`;
+
     // Сравнение общих уровней по id
     currLevels.forEach((curr) => {
       const prev = prevLevels.find((p) => p.id === curr.id);

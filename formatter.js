@@ -232,8 +232,6 @@ async function generateDiff() {
       markdown += '\n';
     }
 
-    markdown += `# ⚙️ Changes\n\n`;
-
     // Сравнение общих уровней по id
     currLevels.forEach((curr) => {
       const prev = prevLevels.find((p) => p.id === curr.id);
@@ -285,7 +283,7 @@ async function generateDiff() {
 
         if (changes.length > 0) {
           hasChanges = true;
-          markdown += `# ⚙️ Changes\n\n`;
+          markdown += `# ⚙️ Changes\n`;
           markdown += `## #${curr.place}: ${curr.name}\n\n`;
           markdown += changes.join('\n') + '\n\n';
         }

@@ -5,32 +5,28 @@ _Compared:_<br />
 **July 25, 2025 at 08:21 PM** → **July 26, 2025 at 02:21 PM**
 
 # ⚙️ Changes
+
 ## #13: Menace
 
 - **Place**: 16 → 13
 - **Score**: 480 → 540
 
-# ⚙️ Changes
 ## #14: Tunnel of Despair
 
 - **Place**: 13 → 14
 - **Score**: 540 → 520
 
-# ⚙️ Changes
 ## #15: Abyss of Darkness
 
 - **Place**: 14 → 15
 - **Score**: 520 → 500
 
-# ⚙️ Changes
 ## #16: Subterminal Point
 
 - **Place**: 15 → 16
 - **Score**: 500 → 480
 
-# ⚙️ Changes
 ## #960: GewErbiX
 
 - **Place**: 826 → 960
 - **Score**: 0.52 → 0.4
-
